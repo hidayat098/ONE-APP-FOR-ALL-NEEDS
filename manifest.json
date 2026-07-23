@@ -1,0 +1,33 @@
+{
+  "name": "Sistem Operasional Kendari",
+  "short_name": "Ops Kendari",
+  "description": "Sistem Operasional Kendari - Buku Kas, Kunjungan Kapal, PASPEL, MISS Keagenan, Tally, Nota Dinas, Dokumen Kapal, dan Scanner Boarding.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#06182B",
+  "theme_color": "#0B2545",
+  "lang": "id",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
